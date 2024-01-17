@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm liang tongxue</h1>
-<h3 align="center">A passionate developer from china</h3>
+<h1 align="center">Hi 👋, I'm liang tongxue </h1>
+<h3 align="center">A passionate developer from shaoguan university</h3>
 
 <h3 align="left">Connect with me:1458892835@qq.com</h3>
 <p align="left">
